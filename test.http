@@ -1,0 +1,11 @@
+GET http://localhost:8080/scope/singleton
+
+###
+
+GET http://localhost:8080/scope/prototype
+
+###
+
+GET http://localhost:8080/scope/request
+
+###
