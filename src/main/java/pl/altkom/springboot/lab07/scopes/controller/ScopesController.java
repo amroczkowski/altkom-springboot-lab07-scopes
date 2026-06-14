@@ -28,19 +28,4 @@ public class ScopesController {
     public String requestScope() {
         return scopesService.requestScope();
     }
-
-//    @GetMapping("/session")
-//    public String sessionScope() {
-//        return scopesService.sessionScope();
-//    }
-//
-//    @GetMapping("/application")
-//    public String applicationScope() {
-//        return scopesService.applicationScope();
-//    }
-//
-//    @GetMapping("/websocket")
-//    public String websocketScope() {
-//        return scopesService.websocketScope();
-//    }
 }
